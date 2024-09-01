@@ -1,0 +1,9 @@
+#!/bin/bash
+# Declare variable
+GREETING='Hello'
+
+# Use variable
+echo $GREETING, world!
+
+# Output:
+# 'Hello, world!
