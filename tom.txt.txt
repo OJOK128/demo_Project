@@ -1,0 +1,4 @@
+#!/bin/bash
+# trying to get things together
+echo "What is the file ment for"
+exit 0
