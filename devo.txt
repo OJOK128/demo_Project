@@ -1,0 +1,6 @@
+#!/bin/bash
+# This is a simple backup script
+
+cp /path/to/file /path/to/backup
+
+# i decided to add new files to the document
